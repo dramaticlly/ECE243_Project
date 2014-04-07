@@ -43,7 +43,7 @@ Z:		.word 0x0000005a		# 7th valid, 6th frist bit of x, 5-4th xpos, 3-2nd ypos, 1
 .global main
 main:
   call clear_screen
-  #haha
+  #hahahoho
   movia r8,ADDR_VGA
   movia r9, ADDR_CHAR
   #movui r10,0xffff  /* White pixel */

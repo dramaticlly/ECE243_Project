@@ -10,6 +10,7 @@
 .section .data
 .global .data
 	.align 2
+	#123
 array_size:		.word 26
 A:	 	.word 0x00000041
 B:		.word 0x00000042

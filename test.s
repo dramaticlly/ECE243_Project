@@ -80,11 +80,6 @@ main:
 	
 	
 	
-	
-	
-	
-	
-	
 loop_forever:
 	br loop_forever
 	
